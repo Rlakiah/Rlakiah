@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rlakiah
+- 👋 Hi, I’m @rhaikal
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on
